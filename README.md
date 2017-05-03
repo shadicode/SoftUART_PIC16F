@@ -1,4 +1,4 @@
 # SoftUART_PIC16F
-- Software UART implementation for PIC16F84A
-- No buffer or fifo implementation
-- Send and receive single character
+- C implementation of Software UART for PIC16F84A
+- No buffer/fifo 
+- Send and receive (1 Byte)/single character 
